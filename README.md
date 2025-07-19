@@ -1,7 +1,7 @@
 # SQL Project: Music Store Data Analysis
 This project involves performing a comprehensive data analysis on a music store dataset using SQL. The goal is to extract various insights related to sales, customers, employees, and music genres.
 ### Database Schema
-<img src="image.png" width="200" height="100">
+<img src="https://github.com/ms-vishwas/Music-Store-Analysis/blob/main/Datasets/MusicDatabaseSchema.png" width="600" height="500">
 
 ### Project Objectives
 The project is structured into three sets of questions, ranging from easy to advanced, covering different aspects of the music store's operations:
